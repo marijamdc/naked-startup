@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Naked startup',
-  tagline: 'Dinosaurs are cool',
+  title: 'Naked Startup Guide',
+  tagline: 'For founders, CEOs and operators who struggle with finding the right and timely advice for their early-stage startup problems.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -77,7 +77,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://twitter.com/NkdStartupGuide ',
             label: 'Twitter',
             position: 'right',
           },
@@ -103,12 +103,8 @@ const config = {
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/NkdStartupGuide ',
               },
             ],
           },
