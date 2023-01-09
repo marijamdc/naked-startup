@@ -1,5 +1,5 @@
 .homeCallouts {
-    margin-top: -100px;
+    margin-top: 70px;
     display: grid;
     grid-gap: 20px;
     grid-template-columns: repeat(2, 500px);

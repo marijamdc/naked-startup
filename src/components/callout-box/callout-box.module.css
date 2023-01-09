@@ -1,6 +1,6 @@
 .calloutBox {
-     background-color: rgba(0,0,0,0.3);
-    /* background-color: var(--mg-bg); */
+     /* background-color: rgba(0,0,0,0.3); */
+    background-color: rgba(45, 119, 78, 0.141);
     border-radius: 20px;
     box-shadow: 0 2px 10px 0 rgba(0,0,0,0.2);
     padding: 32px 26px;
