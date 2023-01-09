@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Naked Startup Guide',
   tagline: 'For founders, CEOs and operators who struggle with finding the right and timely advice for their early-stage startup problems.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://nakedstartup.guide',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -85,7 +85,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()}, Marko Srsan`,
+        copyright: `Copyright © ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,
